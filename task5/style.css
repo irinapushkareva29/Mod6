@@ -1,0 +1,33 @@
+input {
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: aqua;
+}
+
+#textForm::placeholder {
+    text-align: center;
+    font-style: italic;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+}
+
+.label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
